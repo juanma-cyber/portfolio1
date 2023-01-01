@@ -81,12 +81,12 @@ const dataportfolio = [{
     {
         img: "https://picsum.photos/500/800/?grayscale",
         desctiption: "News site",
-        link: "https://vercel.com/juanma-cyber/noti",
+        link: "https://noti-steel.vercel.app/",
     },
     {
         img: "https://picsum.photos/600/700?grayscale",
         desctiption: "Personal Portfolio1",
-        link: "https://vercel.com/juanma-cyber/portfolio",
+        link: "https://portfolio-puce-iota-63.vercel.app/",
     },
     {
         img: "https://picsum.photos/700/600/?grayscale",
